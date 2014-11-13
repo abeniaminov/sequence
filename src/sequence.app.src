@@ -1,0 +1,12 @@
+{application, sequence,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, [sequence]},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { sequence_app, []}},
+  {env, []}
+ ]}.
