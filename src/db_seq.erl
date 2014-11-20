@@ -2,7 +2,6 @@
 
 %% Copyright (c) 2014
 %%
-%% Russian language Implementation of Porter Stemming Algorithm in Erlang  
 %%
 %% Alexander Beniaminov (abeniaminov@gmail.com)
 %%
